@@ -5,7 +5,7 @@ import com.blade.security.web.csrf.CsrfMiddleware;
 import com.tale.bootstrap.TaleLoader;
 
 /**
- * this Tale启动类
+ * this is Tale启动类
  *
  * @author biezhi
  */
